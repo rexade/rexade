@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": "2026-09-28T11:05:16.661Z",
+  "fetchedAt": "2026-10-05T11:41:06.283Z",
   "login": "rexade",
   "since": 2018,
   "year": 2026,
   "followers": 5,
-  "publicRepos": 12,
+  "publicRepos": 13,
   "stars": 0,
   "prs": 21,
   "issues": 0,
-  "commitsThisYear": 53,
-  "yearContributions": 60,
-  "totalContributions": 149,
+  "commitsThisYear": 67,
+  "yearContributions": 75,
+  "totalContributions": 164,
   "streak": {
     "current": {
       "days": 0,
@@ -26,34 +26,34 @@
   },
   "languages": [
     {
+      "name": "C#",
+      "color": "#7355dd",
+      "percent": 23.3
+    },
+    {
       "name": "TypeScript",
       "color": "#3178c6",
-      "percent": 28.4
+      "percent": 22.9
     },
     {
       "name": "GDScript",
       "color": "#355570",
-      "percent": 26.5
+      "percent": 21.4
     },
     {
       "name": "JavaScript",
       "color": "#f1e05a",
-      "percent": 19.7
-    },
-    {
-      "name": "C#",
-      "color": "#7355dd",
-      "percent": 6.9
+      "percent": 15.9
     },
     {
       "name": "Python",
       "color": "#3572A5",
-      "percent": 6.7
+      "percent": 6.8
     },
     {
       "name": "Shell",
       "color": "#89e051",
-      "percent": 3.2
+      "percent": 2.6
     }
   ],
   "repos": {
